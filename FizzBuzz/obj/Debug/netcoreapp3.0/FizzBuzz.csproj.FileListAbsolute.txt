@@ -1,0 +1,10 @@
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.exe
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.deps.json
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.runtimeconfig.json
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.runtimeconfig.dev.json
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.dll
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.0\FizzBuzz.pdb
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.0\FizzBuzz.dll
+C:\Users\mohammed.farooq\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.0\FizzBuzz.pdb
